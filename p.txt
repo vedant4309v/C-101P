@@ -1,0 +1,1 @@
+here we have e library app which helps librarian to manage records of th library. by pressing transaction screnn he or she can she all the transaction made by students. 
